@@ -130,6 +130,7 @@ main {
 #company {
   display: flex;
   align-items: center;
+  padding-bottom: 120px;
 }
 #company .text {
   width: 50%;
@@ -151,9 +152,6 @@ main {
 }
 /* footer */
 
-footer {
-  margin-top: 120px;
-}
 footer .wrapper {
   padding: 16px 0;
   display: flex;
